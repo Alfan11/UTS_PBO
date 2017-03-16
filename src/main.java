@@ -249,7 +249,7 @@ public class main extends javax.swing.JFrame {
 
         jPanel6.setBackground(new java.awt.Color(204, 0, 204));
 
-        jButton5.setBackground(new java.awt.Color(255, 0, 0));
+        jButton5.setBackground(new java.awt.Color(0, 204, 204));
         jButton5.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
         jButton5.setText("Exit");
         jButton5.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -269,7 +269,7 @@ public class main extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setBackground(new java.awt.Color(255, 255, 0));
+        jButton3.setBackground(new java.awt.Color(0, 204, 204));
         jButton3.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
         jButton3.setText("CEK");
         jButton3.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -281,7 +281,7 @@ public class main extends javax.swing.JFrame {
 
         jPanel7.setBackground(new java.awt.Color(204, 0, 204));
 
-        jButton2.setBackground(new java.awt.Color(51, 255, 0));
+        jButton2.setBackground(new java.awt.Color(0, 204, 204));
         jButton2.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
         jButton2.setText("Save");
         jButton2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -291,7 +291,7 @@ public class main extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setBackground(new java.awt.Color(255, 255, 255));
+        jButton1.setBackground(new java.awt.Color(0, 204, 204));
         jButton1.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
         jButton1.setText("Clear");
         jButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -321,7 +321,7 @@ public class main extends javax.swing.JFrame {
                 .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 48, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jButton4.setBackground(new java.awt.Color(255, 0, 0));
+        jButton4.setBackground(new java.awt.Color(0, 204, 204));
         jButton4.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
         jButton4.setText("Delete");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
